@@ -175,6 +175,7 @@
 		ECF26F0325BACBDE00F1FBCA /* WaveShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF26F0225BACBDE00F1FBCA /* WaveShape.swift */; };
 		ECF26F0425BACBDF00F1FBCA /* WaveShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF26F0225BACBDE00F1FBCA /* WaveShape.swift */; };
 		ECF91ECF2609F58500FF7F55 /* MailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF91ECE2609F58500FF7F55 /* MailView.swift */; };
+		F02E137F26A5808F0020ED38 /* NotchBranding.swift in Sources */ = {isa = PBXBuildFile; fileRef = F02E137E26A5808F0020ED38 /* NotchBranding.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -370,6 +371,7 @@
 		ECF26EFD25BA9E3400F1FBCA /* JobDetailMemberView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JobDetailMemberView.swift; sourceTree = "<group>"; };
 		ECF26F0225BACBDE00F1FBCA /* WaveShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaveShape.swift; sourceTree = "<group>"; };
 		ECF91ECE2609F58500FF7F55 /* MailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MailView.swift; sourceTree = "<group>"; };
+		F02E137E26A5808F0020ED38 /* NotchBranding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotchBranding.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -453,6 +455,7 @@
 				EC5CBF812653924100F1A063 /* MedalView.swift */,
 				EC902D0F2663AAE40014093C /* SessionStatusView.swift */,
 				ECA9B3FF266BCE8400EE63FC /* NintendoAccountLoginView.swift */,
+				F02E137E26A5808F0020ED38 /* NotchBranding.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -1079,6 +1082,7 @@
 				EC902D192663F3AE0014093C /* UIViewController+Extension.swift in Sources */,
 				ECB959CB25B896A80006E942 /* JobListViewModel.swift in Sources */,
 				EC0DFCF4263AC1CE00E95564 /* PopupModifier.swift in Sources */,
+				F02E137F26A5808F0020ED38 /* NotchBranding.swift in Sources */,
 				ECF91ECF2609F58500FF7F55 /* MailView.swift in Sources */,
 				ECD2BFAE25BD8B5E00AA11CA /* JobDetailViewModel.swift in Sources */,
 				EC8B6B2326074F2100B645B5 /* LoginToken.swift in Sources */,
